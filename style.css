@@ -39,7 +39,7 @@ nav a {
   align-items: center;
   justify-content: space-around;
   padding: 4rem 2rem;
-  background-color: #fff;
+  /* background-color: #fff; */
 }
 
 .hero-text {
