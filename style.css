@@ -2,19 +2,20 @@ body {
   
   margin: 0;
   font-family: 'Poppins', sans-serif;
-  background-color: #f4f4f4;
-  color: #333;
+  color: #fff;
   
   background-image: url('images/background.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-color: rgba(0, 0, 0, 0.6); /* fallback tint */
+
 }
 
 
 header {
-  background-color: #222;
+  background-color: #b88b8b;
   padding: 1rem 2rem;
 }
 
